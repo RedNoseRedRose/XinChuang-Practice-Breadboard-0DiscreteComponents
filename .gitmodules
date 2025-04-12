@@ -1,6 +1,6 @@
 [submodule "00LightLed"]
 	path = 00LightLed
-	url = https://github.com/RedNoseRedRose/XinChuang-Practice-Breadboard-0DiscreteComponents-00LightLed
+	url = git@github.com:RedNoseRedRose/XinChuang-Practice-Breadboard-0DiscreteComponents-00LightLed
 [submodule "01CapacitorChargingDischarging"]
 	path = 01CapacitorChargingDischarging
-	url = https://github.com/RedNoseRedRose/XinChuang-Practice-Breadboard-0DiscreteComponents-01CapacitorChargingDischarging
+	url = git@github.com:RedNoseRedRose/XinChuang-Practice-Breadboard-0DiscreteComponents-01CapacitorChargingDischarging
